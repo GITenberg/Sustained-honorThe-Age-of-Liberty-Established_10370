@@ -1,0 +1,29 @@
+_repo: Sustained-honorThe-Age-of-Liberty-Established_10370
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Musick, John R. (John Roy)
+    aliases:
+    - Musick, John Roy
+    - Musick, J. R. (John Roy)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '3504'
+    url: http://www.gutenberg.org/2009/agents/3504
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Musick
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Real America in Romance, Volume X
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Sustained honor: The Age of Liberty Established'
+url: http://www.gutenberg.org/ebooks/10370
